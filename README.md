@@ -70,6 +70,7 @@ Basic DNS knowledge (if using custom domain)
 
 Properly configured S3 public access settings
 
+<img width="3370" height="1711" alt="diagram-export-27-11-2025-22_16_42" src="https://github.com/user-attachments/assets/963c0e16-b735-4946-bff5-358cb54b24f2" />
 
 ## 👤 Contact
 
